@@ -1,0 +1,11 @@
+D:\Development\labs\JWTAuthen\Repository\bin\Debug\netcoreapp3.0\Repository.deps.json
+D:\Development\labs\JWTAuthen\Repository\bin\Debug\netcoreapp3.0\Repository.dll
+D:\Development\labs\JWTAuthen\Repository\bin\Debug\netcoreapp3.0\Repository.pdb
+D:\Development\labs\JWTAuthen\Repository\bin\Debug\netcoreapp3.0\Entities.dll
+D:\Development\labs\JWTAuthen\Repository\bin\Debug\netcoreapp3.0\Entities.pdb
+D:\Development\labs\JWTAuthen\Repository\obj\Debug\netcoreapp3.0\Repository.csprojAssemblyReference.cache
+D:\Development\labs\JWTAuthen\Repository\obj\Debug\netcoreapp3.0\Repository.AssemblyInfoInputs.cache
+D:\Development\labs\JWTAuthen\Repository\obj\Debug\netcoreapp3.0\Repository.AssemblyInfo.cs
+D:\Development\labs\JWTAuthen\Repository\obj\Debug\netcoreapp3.0\Repository.csproj.CopyComplete
+D:\Development\labs\JWTAuthen\Repository\obj\Debug\netcoreapp3.0\Repository.dll
+D:\Development\labs\JWTAuthen\Repository\obj\Debug\netcoreapp3.0\Repository.pdb
